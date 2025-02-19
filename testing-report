@@ -1,8 +1,8 @@
 ---
   -summary:
-    добавление товара в корзину
-  status: pass
+ добавление товара в корзину
+  -status: pass
 ---
   -summary:
     выбор товара по категории
-  status: pass
+  -status: pass
